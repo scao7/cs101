@@ -1,0 +1,30 @@
+insert 1
+display
+insert 5
+display
+insert 0
+display
+insert 7
+insert 3
+display
+insert 8
+insert 2
+display
+insert 6
+insert 4
+display
+toggle
+display
+toggle
+display
+insert 11
+insert 9
+insert 13
+display
+toggle
+display
+insert 10
+insert 12
+display
+toggle
+display
